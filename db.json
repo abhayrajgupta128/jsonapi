@@ -1,5 +1,4 @@
-{
-  "courseModel": [
+ [
     {
       "id": 1,
       "name": "Introduction to React Native",
@@ -566,4 +565,4 @@
       "dueDate": "2024-05-01"
     }
   ]
-}
+
